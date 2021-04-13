@@ -1,6 +1,6 @@
 # eslint-plugin-pii
 
-![npm](https://img.shields.io/npm/v/eslint-plugin-pii)
+![npm](https://img.shields.io/npm/v/eslint-plugin-pii) ![GitHub last commit](https://img.shields.io/github/last-commit/shiva-hack/eslint-plugin-pii) ![npm peer dependency version](https://img.shields.io/npm/dependency-version/eslint-plugin-pii/peer/eslint) ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/eslint-plugin-pii?cacheSeconds=300) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f77de857bbe7426ba4eebe33d307ef84)](https://www.codacy.com/gh/shiva-hack/eslint-plugin-pii/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shiva-hack/eslint-plugin-pii&amp;utm_campaign=Badge_Grade) [![GitHub issues](https://img.shields.io/github/issues/shiva-hack/eslint-plugin-pii?cacheSeconds=300)](https://github.com/shiva-hack/eslint-plugin-pii/issues) [![GitHub license](https://img.shields.io/github/license/shiva-hack/eslint-plugin-pii?cacheSeconds=300)](https://github.com/shiva-hack/eslint-plugin-pii/blob/main/LICENSE)
 
 PII linting rules for ESLint 
 
