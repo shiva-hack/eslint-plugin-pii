@@ -58,4 +58,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Show some love
 
-<a href="https://www.buymeacoffee.com/shivamdhruva" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: auto;" ></a>
+<a href="https://www.buymeacoffee.com/shivamdhruva" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
