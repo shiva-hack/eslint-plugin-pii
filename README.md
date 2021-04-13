@@ -1,8 +1,8 @@
 # eslint-plugin-pii
 
-![npm](https://img.shields.io/npm/v/eslint-plugin-pii) ![GitHub last commit](https://img.shields.io/github/last-commit/shiva-hack/eslint-plugin-pii) ![npm peer dependency version](https://img.shields.io/npm/dependency-version/eslint-plugin-pii/peer/eslint) ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/eslint-plugin-pii?cacheSeconds=300) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f77de857bbe7426ba4eebe33d307ef84)](https://www.codacy.com/gh/shiva-hack/eslint-plugin-pii/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shiva-hack/eslint-plugin-pii&amp;utm_campaign=Badge_Grade) [![GitHub issues](https://img.shields.io/github/issues/shiva-hack/eslint-plugin-pii?cacheSeconds=300)](https://github.com/shiva-hack/eslint-plugin-pii/issues) [![GitHub license](https://img.shields.io/github/license/shiva-hack/eslint-plugin-pii?cacheSeconds=300)](https://github.com/shiva-hack/eslint-plugin-pii/blob/main/LICENSE)
+![npm](https://img.shields.io/npm/v/eslint-plugin-pii) ![GitHub last commit](https://img.shields.io/github/last-commit/shiva-hack/eslint-plugin-pii) ![npm peer dependency version](https://img.shields.io/npm/dependency-version/eslint-plugin-pii/peer/eslint) ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/eslint-plugin-pii?cacheSeconds=300) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f77de857bbe7426ba4eebe33d307ef84)](https://www.codacy.com/gh/shiva-hack/eslint-plugin-pii/dashboard?utm_source=github.com&utm_medium=referral&utm_content=shiva-hack/eslint-plugin-pii&utm_campaign=Badge_Grade) [![GitHub issues](https://img.shields.io/github/issues/shiva-hack/eslint-plugin-pii?cacheSeconds=300)](https://github.com/shiva-hack/eslint-plugin-pii/issues) [![GitHub license](https://img.shields.io/github/license/shiva-hack/eslint-plugin-pii?cacheSeconds=300)](https://github.com/shiva-hack/eslint-plugin-pii/blob/main/LICENSE)
 
-PII linting rules for ESLint 
+PII linting rules for ESLint
 
 ## Installation
 
@@ -57,6 +57,10 @@ Then configure the rules you want to use under the rules section.
 - `pii/no-dob` - enforces no birth date in comments or string literals
 - `pii/no-ip` - enforces no IP address in comments or string literals
 - `pii/no-phone-number` - enforces no phone numbers in comments or string literals
+
+## References
+
+- [General PII Regular Expression](https://support.milyli.com/docs/quickstarts/regex/general-pii-regex)
 
 ## Show some love
 
