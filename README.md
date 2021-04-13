@@ -1,7 +1,5 @@
 # eslint-plugin-pii
 
-[![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][deps-image]][deps-url] [![Code Climate][climate-image]][climate-url] [![Tidelift][tidelift-image]][tidelift-url]
-
 PII linting rules for ESLint
 
 ## Installation
