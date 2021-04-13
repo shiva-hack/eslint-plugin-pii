@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-pii",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PII linting rules for ESLint",
   "keywords": [
     "eslint",
