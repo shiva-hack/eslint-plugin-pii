@@ -1,5 +1,7 @@
 # eslint-plugin-pii
 
+![npm](https://img.shields.io/npm/v/eslint-plugin-pii)
+
 PII linting rules for ESLint
 
 ## Installation
