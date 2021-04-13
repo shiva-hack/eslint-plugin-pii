@@ -5,7 +5,8 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "pii"
   ],
   "author": "Shivam Dhruva <email@shivamdhruva.com>",
   "main": "lib/index.js",
