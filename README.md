@@ -57,3 +57,7 @@ Then configure the rules you want to use under the rules section.
 - `pii/no-dob` - enforces no birth date in comments or string literals
 - `pii/no-ip` - enforces no IP address in comments or string literals
 - `pii/no-phone-number` - enforces no phone numbers in comments or string literals
+
+## Show some love
+
+<a href="https://www.buymeacoffee.com/shivamdhruva" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: auto;" ></a>
