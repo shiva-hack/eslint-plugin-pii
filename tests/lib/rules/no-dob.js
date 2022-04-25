@@ -21,9 +21,9 @@ ruleTester.run("no-dob", rule, {
     {
       code: '// this is a plain string\nvar dob = "no dob here";',
     },
-		{
-			code: 'var someUninitializedVariable'
-		}
+    {
+      code: 'var someUninitializedVariable'
+    }
   ],
 
   invalid: [
